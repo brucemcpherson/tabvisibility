@@ -1,6 +1,6 @@
 
 
-# TAB VISIBILIY
+# TAB VISIBILITY
 
 When a browser tab goes in and out of view, it's possible you want to do something differently. If you're writing Apps Script add-ons this is especially true. Tab visibility is a class to allow the detection and testing of visibility across multiple browsers.
 
